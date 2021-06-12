@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lagyensword"
+    },
+    {
+      "name": "Lagyenpickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lagyenpickaxe"
     }
   ],
   "variable_elements": [],
@@ -54,6 +63,7 @@
       "block.gg.maden_1": "Lagyenit",
       "item.gg.rawlagyeningot": "Rawlagyeningot",
       "item.gg.lagyenit": "Lagyenit",
+      "item.gg.lagyenpickaxe": "Lagyenit Pickaxe",
       "item.gg.lagyensword": "Lagyensword"
     }
   },
