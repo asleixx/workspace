@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gg:block/maden_1"
+    },
+    "facing=east": {
+      "model": "gg:block/maden_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gg:block/maden_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gg:block/maden_1",
+      "y": 270
+    }
+  }
+}

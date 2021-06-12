@@ -1,0 +1,83 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Maden1",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maden_1"
+    },
+    {
+      "name": "Rawlagyeningot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rawlagyeningot"
+    },
+    {
+      "name": "Lagyenit",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lagyenit"
+    },
+    {
+      "name": "Recipeoflagyenit",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipeoflagyenit"
+    },
+    {
+      "name": "Lagyensword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lagyensword"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.gg.maden_1": "Lagyenit",
+      "item.gg.rawlagyeningot": "Rawlagyeningot",
+      "item.gg.lagyenit": "Lagyenit",
+      "item.gg.lagyensword": "Lagyensword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gg",
+    "modName": "gg",
+    "version": "1.0.0",
+    "author": "Efe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.gg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
